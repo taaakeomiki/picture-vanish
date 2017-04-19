@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    @IBOutlet weak var mainImage: UIImageView!
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,7 +20,13 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
+    @IBAction func kakusu(_ sender: Any) {
+        mainImage.isHidden=true
+    }
+    
+    @IBAction func hyouji(_ sender: Any) {
+        mainImage.isHidden=false
+    }
+    
 }
 

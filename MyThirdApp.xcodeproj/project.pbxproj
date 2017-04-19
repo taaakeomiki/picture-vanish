@@ -14,6 +14,9 @@
 		BC073FD21E9A614600653F4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC073FD01E9A614600653F4C /* LaunchScreen.storyboard */; };
 		BC073FDD1E9A614600653F4C /* MyThirdAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC073FDC1E9A614600653F4C /* MyThirdAppTests.swift */; };
 		BC073FE81E9A614600653F4C /* MyThirdAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC073FE71E9A614600653F4C /* MyThirdAppUITests.swift */; };
+		BC073FF61E9A61ED00653F4C /* IMG_1937.PNG in Resources */ = {isa = PBXBuildFile; fileRef = BC073FF51E9A61ED00653F4C /* IMG_1937.PNG */; };
+		BC073FF81E9A621300653F4C /* IMG_7662.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BC073FF71E9A621300653F4C /* IMG_7662.JPG */; };
+		BC073FFA1E9A660500653F4C /* IMG_7682.JPG in Resources */ = {isa = PBXBuildFile; fileRef = BC073FF91E9A660500653F4C /* IMG_7682.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		BC073FE31E9A614600653F4C /* MyThirdAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyThirdAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC073FE71E9A614600653F4C /* MyThirdAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyThirdAppUITests.swift; sourceTree = "<group>"; };
 		BC073FE91E9A614600653F4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC073FF51E9A61ED00653F4C /* IMG_1937.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = IMG_1937.PNG; path = "../../../../Downloads/名称未設定フォルダ/IMG_1937.PNG"; sourceTree = "<group>"; };
+		BC073FF71E9A621300653F4C /* IMG_7662.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_7662.JPG; path = "../../../../Pictures/写真ライブラリ.photoslibrary/Masters/2017/04/08/20170408-112001/IMG_7662.JPG"; sourceTree = "<group>"; };
+		BC073FF91E9A660500653F4C /* IMG_7682.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = IMG_7682.JPG; path = "../../../../Pictures/写真ライブラリ.photoslibrary/Masters/2017/04/08/20170408-135224/IMG_7682.JPG"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +106,9 @@
 				BC073FC71E9A614600653F4C /* AppDelegate.swift */,
 				BC073FC91E9A614600653F4C /* ViewController.swift */,
 				BC073FCB1E9A614600653F4C /* Main.storyboard */,
+				BC073FF91E9A660500653F4C /* IMG_7682.JPG */,
+				BC073FF71E9A621300653F4C /* IMG_7662.JPG */,
+				BC073FF51E9A61ED00653F4C /* IMG_1937.PNG */,
 				BC073FCE1E9A614600653F4C /* Assets.xcassets */,
 				BC073FD01E9A614600653F4C /* LaunchScreen.storyboard */,
 				BC073FD31E9A614600653F4C /* Info.plist */,
@@ -236,8 +245,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC073FD21E9A614600653F4C /* LaunchScreen.storyboard in Resources */,
+				BC073FF81E9A621300653F4C /* IMG_7662.JPG in Resources */,
 				BC073FCF1E9A614600653F4C /* Assets.xcassets in Resources */,
 				BC073FCD1E9A614600653F4C /* Main.storyboard in Resources */,
+				BC073FFA1E9A660500653F4C /* IMG_7682.JPG in Resources */,
+				BC073FF61E9A61ED00653F4C /* IMG_1937.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
